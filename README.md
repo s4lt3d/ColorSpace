@@ -1,6 +1,6 @@
 # Color Space Exploration
 
-Cycles through colors using CIELCH to shift hues. 
+Cycles through colors using [CIELCH](https://en.wikipedia.org/wiki/CIELAB_color_space) to shift hues. 
 
 Color conversion class provided in ColorSpace.cs
 
